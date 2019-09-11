@@ -1,0 +1,23 @@
+.container {
+    width: 1620px;
+    margin: auto;
+}
+
+.menu_bar {
+    list-style-type: none;
+    margin: 0;
+    margin-top: 60px;
+    padding-left: 0;
+}
+
+.menu_bar li {
+    margin-right: 100px;
+    float: left;
+}
+
+.menu_bar li a {
+    text-decoration: none;
+    font-family: 'courier-new';
+    font-size: 24px;
+    color: #010101;
+}
